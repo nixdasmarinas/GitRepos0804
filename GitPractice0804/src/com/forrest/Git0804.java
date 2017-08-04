@@ -7,10 +7,11 @@ public class Git0804 {
 		String myName = "Nix";
 		String myEmail = "mddasmarinas@gmail.com";
 		String myAddress = "Caloocan,Philippines";
+		int  myNum = 0324;
 		System.out.println(myName);
 		System.out.println(myEmail);
 		System.out.println(myAddress);
-		
+		System.out.println(myNum);		
 	}
 
 }
