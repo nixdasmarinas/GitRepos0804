@@ -12,6 +12,12 @@ public class Git0804 {
 		System.out.println(myEmail);
 		System.out.println(myAddress);
 		System.out.println(myNum);		
+		
+		for(int i=0; i<5; i++) {
+			
+			System.out.println(i);
+			
+		}
 	}
 
 }
