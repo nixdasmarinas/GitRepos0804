@@ -23,6 +23,7 @@ public class Git0804 {
 			System.out.println("BranchTwo");
 			System.out.println("BranchThree");
 		}
+		System.out.print(1+1);
 	}
 
 }
