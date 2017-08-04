@@ -21,11 +21,8 @@ public class Git0804 {
 			System.out.println(i);
 			System.out.println(i);
 			System.out.println("BranchTwo");
-<<<<<<< HEAD
-			
-=======
->>>>>>> refs/heads/branchTwo
 			System.out.println("BranchThree");
+			System.out.println("One");
 		}
 		System.out.print(1+1);
 	}
