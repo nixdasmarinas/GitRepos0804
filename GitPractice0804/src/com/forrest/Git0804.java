@@ -17,10 +17,14 @@ public class Git0804 {
 		System.out.println(myNum);		
 		System.out.println(age);	
 		for(int i=0; i<5; i++) {
+<<<<<<< HEAD
 			
 			System.out.println(i);
 			System.out.println(i);
 			System.out.println("BranchTwo");
+=======
+			System.out.println("Two");
+>>>>>>> refs/heads/Two
 			System.out.println("BranchThree");
 			System.out.println("One");
 		}
