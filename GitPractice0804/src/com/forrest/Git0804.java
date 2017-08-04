@@ -17,14 +17,7 @@ public class Git0804 {
 		System.out.println(myNum);		
 		System.out.println(age);	
 		for(int i=0; i<5; i++) {
-			
-			System.out.println(i);
-			System.out.println(i);
-			System.out.println("BranchTwo");
-<<<<<<< HEAD
-			
-=======
->>>>>>> refs/heads/branchTwo
+			System.out.println("Two");
 			System.out.println("BranchThree");
 		}
 		System.out.print(1+1);
