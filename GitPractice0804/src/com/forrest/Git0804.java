@@ -5,7 +5,7 @@ public class Git0804 {
 	public static void main(String[] args) {
 		
 		String myName = "Nix";
-		String myEmail = "mddasmarinas@gmail.com";
+		String myEmail = "mddasmarinas@gmail.com"; 
 		String myAddress = "Caloocan,Philippines";
 		int zipcode = 456;
 		int  myNum = 0324;
@@ -19,8 +19,11 @@ public class Git0804 {
 		for(int i=0; i<5; i++) {
 			
 			System.out.println(i);
+			System.out.println(i);
 			
 		}
 	}
 
 }
+
+
